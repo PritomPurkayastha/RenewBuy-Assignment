@@ -1,0 +1,10 @@
+.sidebarRow{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+.sidebarRow_title{
+    margin-left: 20px;
+}

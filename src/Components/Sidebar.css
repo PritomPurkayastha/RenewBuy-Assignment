@@ -1,0 +1,15 @@
+.sidebar{
+    flex: 0.2;
+}
+.sidebar_title{
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+.sidebar_nav{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
